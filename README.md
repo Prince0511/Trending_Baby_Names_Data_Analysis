@@ -60,6 +60,3 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**Note**: This README is a template and should be customized to fit the specifics of your project.
